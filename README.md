@@ -129,52 +129,52 @@ terminal:
 
 ```html
 <!DOCTYPE html>
-<!--[if lte IE 7]><html id="html" class="deprecated"><![endif]--><!--[if IE 8]><html id="html" class="deprecated"><![endif]--><!--[if IE 9]><html id="html" class="deprecated"><![endif]--><!--[if gt IE 9]><!--><html id="html" class="modern">
-<!--<![endif]--><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-<link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
-<title>Learn Coding, Data Science, &amp; UX/UI Design | Flatiron School</title>
-<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,700" rel="stylesheet">
-<link rel="stylesheet" href="/assets/css/v2/global.min.css?v=3.6">
-<!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-KZZ9JB');</script><!-- End Google Tag Manager --><meta name="description" content="A coding bootcamp with tech’s most effective software engineering and data science courses – online and on-campus in NYC, Houston, DC, Atlanta, Seattle, and London.">
-<link rel="canonical" href="https://flatironschool.com/">
+<html lang="en" class="gr__flatironschool_com" data-react-helmet="lang">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-site-verification" content="X--Dsxcv97NzPomhlz80wswUgUOF8iMxYhmaY-qNHFY">
+  <link rel="preload" href="https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xIIzIXKMny.woff2" as="font" type="font/woff2" crossorigin="anonymous"> 
+  <script type="text/javascript" async="" src="https://widget.intercom.io/widget/j4d6dyie"></script>
+  <script src="https://connect.facebook.net/signals/plugins/inferredEvents.js?v=2.9.4" async=""></script>
+  <script src="https://connect.facebook.net/signals/config/1706055166302798?v=2.9.4&amp;r=stable" async=""></script>
+  <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script>
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+  <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script>
+  <script src="//js.hs-analytics.net/analytics/1568493600000/69751.js" type="text/javascript" id="hs-analytics"></script>
+  <script src="https://js.hsadspixel.net/fb.js" type="text/javascript" id="hs-ads-pixel-69751" data-ads-portal-id="69751" data-ads-env="prod" data-loader="hs-scriptloader" data-hsjs-portal="69751" data-hsjs-env="prod"></script>
 ...
 ```
 
 If you look through further, you can find the `body` with lots of content.
 
 ```html
-<body data-env="PRODUCTION" data-options='{"learn_url":"https:\/\/learn.co","hubspot_id":69751,"imgix_domain":"flatiron-v3-production.imgix.net"}'>
-<!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZZ9JB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) --><header class="
-  site-header
-      site-header--default
-  
-      site-header--shade-color-blue-darker
-  " name="site-header"><!-- Banner Alert --><!-- Background Image --><picture><source media="(min-width: 1600px)" ix-path="20180521FlatironSchool-Selects-26.jpg" ix-params='{
-          "h": 1000,
-          "w": 2000,
-          "fit": "crop",
-          "crop": "faces"
-        }'><source media="(min-width: 720px)" ix-path="20180521FlatironSchool-Selects-26.jpg" ix-params='{
-          "h": 450,
-          "w": 800,
-          "fit": "crop",
-          "crop": "faces"
-        }'><img ix-path="20180521FlatironSchool-Selects-26.jpg" ix-params='{
-          "h": 800,
-          "w": 1600,
-          "fit": "crop",
-          "crop": "faces"
-        }' class="site-header__background-image js__object-fit-image" alt="Change things."></source></source></picture><!-- Mobile content --><div class="site-header__nav level level--vertical-padding-smallest"><div class="level__inner"><div class="site-header__menu js--site-nav">
-<div class="site-header__menu__tray">
+<body data-gr-c-s-loaded="true">
+  <div id="pull-down" class="hb-50 hellobar hb-bottom-right se-714205 inverted" style="background-color: rgb(255, 255, 255);">
+    <div class="hellobar-arrow">
+      <svg xmlns="http://www.w3.org/2000/svg" width="11px" height="11px" viewBox="43.6 92.5 315 315"><path d="M49.6 92.5c-3.3 0-6 2.7-6 6v303c0 3.3 2.7 6 6 6h303c3.3 0 6-2.7 6-6v-303c0-3.3-2.7-6-6-6H49.6zM229.6 254.3c-3.3 0-6 2.7-6 6V360c0 3.3-2.7 6-6 6h-33c-3.3 0-6-2.7-6-6v-99.7c0-3.3-2.7-6-6-6H99.2c-3.3 0-4.2-2-2-4.5l99.9-111.4c2.2-2.5 5.8-2.5 8 0l99.9 111.4c2.2 2.5 1.3 4.5-2 4.5H229.6z"></path></svg>
+    </div>
+  </div>
+  <iframe src="about:blank" id="o8689c8c25e49f24d1d4bd1d49101d50041f42abc-container" class="HB-Slider hb-animated azuki hb-bottom-right" name="o8689c8c25e49f24d1d4bd1d49101d50041f42abc-container-0" style="display: none;"></iframe>
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZZ9JB" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+  </noscript>
+  <noscript id="gatsby-noscript">This app works best with JavaScript enabled.</noscript>
+  <div id="___gatsby">
+    <div style="outline:none" tabindex="-1" role="group" id="gatsby-focus-wrapper">
+      <header class="siteHeader-2Zios8 blue-2siWYz normal-1mR2Ud" name="site-header">
+        <picture>
+          <source type="image/webp" media="(min-width: 1920px)" srcset="https://images.ctfassets.net/hkpf2qd2vxgx/6uCU1D03JXktRj8kwW7Nip/a2572151bf67c3552d88139ee0299ef2/homepage-hero.jpg?fm=webp&amp;q=85&amp;w=1920,
+      https://images.ctfassets.net/hkpf2qd2vxgx/6uCU1D03JXktRj8kwW7Nip/a2572151bf67c3552d88139ee0299ef2/homepage-hero.jpg?fm=webp&amp;q=40&amp;w=3840 2x">
+          <source type="image/jpeg" media="(min-width: 1920px)" srcset="https://images.ctfassets.net/hkpf2qd2vxgx/6uCU1D03JXktRj8kwW7Nip/a2572151bf67c3552d88139ee0299ef2/homepage-hero.jpg?fl=progressive&amp;fm=jpg&amp;q=85&amp;w=1920,
+      https://images.ctfassets.net/hkpf2qd2vxgx/6uCU1D03JXktRj8kwW7Nip/a2572151bf67c3552d88139ee0299ef2/homepage-hero.jpg?fl=progressive&amp;fm=jpg&amp;q=40&amp;w=3840 2x">
+          <source type="image/webp" media="(min-width: 1280px)" srcset="https://images.ctfassets.net/hkpf2qd2vxgx/6uCU1D03JXktRj8kwW7Nip/a2572151bf67c3552d88139ee0299ef2/homepage-hero.jpg?fm=webp&amp;q=85&amp;w=1280,
+      https://images.ctfassets.net/hkpf2qd2vxgx/6uCU1D03JXktRj8kwW7Nip/a2572151bf67c3552d88139ee0299ef2/homepage-hero.jpg?fm=webp&amp;q=40&amp;w=2560 2x">
 ...
 ```
 
@@ -271,7 +271,7 @@ Once activated, hover over the 'Change things' text. This will highlight its
 HTML element for us. Notice that:
 
 ```html
-<h1 class="site-header__hero__headline">...</hi>
+<h1 class="headline-26OIBN">...</h1>
 ```
 
 is highlighted in the above image. If you click on the carrot at the left end of
@@ -281,7 +281,7 @@ that line, it will open up to show you what that element contains (with lots of 
 "Change things."
 ```
 
-We found it! That text lives in a span whose class is `"site-header__hero__headline"`. Now we're
+We found it! That text lives in a span whose class is `"headline-26OIBN"`. Now we're
 ready to use the `.css` method to grab the text we want:
 
 #### Calling the `.css` method
@@ -292,7 +292,7 @@ In our `scraper.rb` file, we had the following code:
 require 'nokogiri'
 require 'open-uri'
 
-doc = Nokogiri::HTML(open("http://flatironschool.com/"))
+doc = Nokogiri::HTML(open("https://flatironschool.com/"))
 ```
 
 Let's call `.css` on `doc` and give it the argument of our CSS selector:
@@ -301,58 +301,48 @@ Let's call `.css` on `doc` and give it the argument of our CSS selector:
 require 'nokogiri'
 require 'open-uri'
 
-doc = Nokogiri::HTML(open("http://flatironschool.com/"))
-doc.css(".site-header__hero__headline")
+doc = Nokogiri::HTML(open("https://flatironschool.com/"))
+doc.css(".headline-26OIBN")
 ```
 
 If we were to copy and paste the above code into IRB, the last line
 would return something like:
 
 ```text
-[#<Nokogiri::XML::Element:0x3fe2d610baa0 name="h1" attributes=[#<Nokogiri::XML::Attr:0x3fe2d610ba3c name="class" value="site-header__hero__headline">] children=[#<Nokogiri::XML::Text:0x3fe2d610b62c "\n      \n                  Change things.\n        \n        \n                    \n          \n                      \n          \n              \n      ">]>]
+[#<Nokogiri::XML::Element:0x3fdb39ac8380 name="h1" attributes=[#<Nokogiri::XML::Attr:0x3fdb39ac86dc name="class" value="headline-26OIBN">] children=[#<Nokogiri::XML::Text:0x3fdb39ac5d60 "Change things.">]>]
 ```
 
 Although dense, it is possible to figure some things out. First of all,
-`doc.css(".site-header__hero__headline")` returned what looks like an Array
+`doc.css(".headline-26OIBN")` returned what looks like an Array
 containing one `Nokogiri` object. In actuality, this 'Array' is _also_ a special
 `Nokogiri` object, but works very much like an Array. If you look closely at the
 object contained within it, you'll see that it has the 'Change things' text towards the end! To
 get it out, we can call `.text`:
 
 ```ruby
-doc.css(".site-header__hero__headline").text
+doc.css(".headline-26OIBN").text
 ```
 
 Using `.text` allows us to access text content inside an element scraped by Nokogiri. Run in IRB, we'd see something like this returned:
 
 ```bash
- => "\n      \n                  Change things.\n        \n        \n                    \n          \n                      \n          \n              \n      "
+ => "Change things."
 ```
 
-> **Aside**: Add `.strip` to the end, and we can clean up the extra whitespace and simply return `"Change things."`
+> **Aside**: In general adding `.strip` to the end will allow us to clean up the extra whitespace and simply return the text contained inside the element.
 
 An interesting thing to note: If you're coding along in the provided
 `lib/scraper.rb` file, using `puts` or `print` on `doc.css` will cause the **HTML
 elements to print out**.
 
 ```ruby
-puts doc.css(".site-header__hero__headline")
+puts doc.css(".headline-26OIBN")
 ```
 
 Will print out:
 
 ```html
-<h1 class="site-header__hero__headline">
-      
-                  Change things.
-        
-        
-                    
-          
-                      
-          
-              
-      </h1>
+<h1 class="headline-26OIBN">Change things.</h1>
 ```
 
 However, just as before, we can just add `.text` (and `.strip`) and get only the
@@ -377,35 +367,35 @@ scrape the titles of all courses from these elements.
 ![courses](https://curriculum-content.s3.amazonaws.com/web-development/ruby/scraping_flatironschool_courses.png)
 
 This time, if we hover over one of the elements containing a course, we'll see
-there are three classes assigned, `tout__label`, `heading`, and
-`heading--level-4`. Since CSS classes are often shared, we'll use all three to
+there are two classes assigned, `inlineMobileLeft-2Yo002`, and `imageTextBlockGrid3-2XAK6G`. Since CSS classes are often shared, we'll use all two to
 try and get only the content we need:
 
 ```ruby
 require 'nokogiri'
 require 'open-uri'
 
-html = open("http://flatironschool.com/")
+html = open("https://flatironschool.com/")
 doc = Nokogiri::HTML(html)
 
-doc.css(".tout__label.heading.heading--level-4")
+doc.css(".inlineMobileLeft-2Yo002.imageTextBlockGrid3-2XAK6G")
 ```
 
 > Notice that each class is listed without spaces!
+> To make sure we only select the three courses in this section and not also other elements that might share the same class name, we will increase the `specificity` of our CSS selector. In order to make our selector more `strict`, we'll target the correct section first and then the elements containing a course. 
 
-Even though the Nokogiri gem returns a `Nokogiri::XML::NodeSet` (which looks
-like an Array in Ruby), we can use Ruby methods, such as `.each` and `.collect`,
+This section has the id `2a778efd-1685-5ec6-9e5a-0843d6a88b7b`, and adding that to the final selector will produce: `.css("#2a778efd-1685-5ec6-9e5a-0843d6a88b7b .inlineMobileLeft-2Yo002.imageTextBlockGrid3-2XAK6G")`.
+Even though the Nokogiri gem returns a `Nokogiri::XML::NodeSet` (which looks like an Array in Ruby), we can use Ruby methods, such as `.each` and `.collect`,
 to iterate over it.
 
 ```bash
-[#<Nokogiri::XML::Element:0x3fdf31ee8eb4 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31ee8e28 name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31ee8900 "\n          $1M in Scholarships for Women\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31ee8748 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31ee86e4 name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31ee8270 "\n          What Kind of Coding Program is Right for You?\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31ee807c name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31eedfcc name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31eeda90 "\n          Attend an Online Info Session\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31eed8d8 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31eed860 name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31eed43c "\n          Coding Bootcamp Prep\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31eed284 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31eed220 name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31eecdc0 "\n          Online Software Engineering\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31eecc1c name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31eecba4 name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31eec744 "\n          Data Science Bootcamp Prep\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31eec5a0 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31eec53c name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31ef3fbc "\n          Online Data Science\n        ">]>]
+[#<Nokogiri::XML::Element:0x3fdf31ee8eb4 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31ee8e28 name="class" value="inlineMobileLeft-2Yo002 imageTextBlockGrid3-2XAK6G">] children=[#<Nokogiri::XML::Text:0x3fdf31ee8900 "\n          $1M in Scholarships for Women\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31ee8748 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31ee86e4 name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31ee8270 "\n          What Kind of Coding Program is Right for You?\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31ee807c name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31eedfcc name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31eeda90 "\n          Attend an Online Info Session\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31eed8d8 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31eed860 name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31eed43c "\n          Coding Bootcamp Prep\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31eed284 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31eed220 name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31eecdc0 "\n          Online Software Engineering\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31eecc1c name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31eecba4 name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31eec744 "\n          Data Science Bootcamp Prep\n        ">]>, #<Nokogiri::XML::Element:0x3fdf31eec5a0 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fdf31eec53c name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fdf31ef3fbc "\n          Online Data Science\n        ">]>]
 ```
 
 Instead of just outputting the results of `doc.css`, if we assign them
 to a variable, we can then iterate over that variable with `.each` and `puts` out each course:
 
 ```ruby
-courses = doc.css(".tout__label.heading.heading--level-4")
+courses = doc.css("#2a778efd-1685-5ec6-9e5a-0843d6a88b7b .inlineMobileLeft-2Yo002.imageTextBlockGrid3-2XAK6G")
 
 courses.each do |course|
   puts course.text.strip
@@ -415,13 +405,9 @@ end
 We'd see something like this:
 
 ```text
-$1M in Scholarships for Women
-What Kind of Coding Program is Right for You?
-Attend an Online Info Session
-Coding Bootcamp Prep
-Online Software Engineering
-Data Science Bootcamp Prep
-Online Data Science
+Software EngineeringLaunch your career as a full-stack web developer ...
+Data ScienceOur full-time data science program that gives students ...
+UX/UI DesignLearn the user experience, client management, technical, ...
 ```
 
 Not _exactly_ the course listing as it scraped some other content as well - a
@@ -435,13 +421,13 @@ method. In the previous example, we had many `Nokogiri` objects to iterate over.
 Looking at just the first one:
 
 ```ruby
-p doc.css(".tout__label.heading.heading--level-4")[0]
+p doc.css("#2a778efd-1685-5ec6-9e5a-0843d6a88b7b .inlineMobileLeft-2Yo002.imageTextBlockGrid3-2XAK6G")[0]
 ```
 
 We get the following:
 
 ```text
-#<Nokogiri::XML::Element:0x3fd385890ca4 name="h2" attributes=[#<Nokogiri::XML::Attr:0x3fd385890c04 name="class" value="tout__label heading heading--level-4">] children=[#<Nokogiri::XML::Text:0x3fd3858906c8 "\n          $1M in Scholarships for Women\n        ">]>
+#<Nokogiri::XML::Element:0x3fc3494ba054 name="div" attributes=[#<Nokogiri::XML::Attr:0x3fc3494ba298 name="class" value="inlineMobileLeft-2Yo002 imageTextBlockGrid3-2XAK6G">] children=[#<Nokogiri::XML::Element:0x3fc3494abd88 name="div" attributes=[#<Nokogiri::XML::Attr:0x3fc3494abd24 name="class" value="media-3NKI6- horizontalImageContainer-1a2NpA">]...
 ```
 
 This is an XML element. XML stands for Extensible Markup Language. Just like
@@ -452,8 +438,8 @@ output object, we can see it has a `name`, "h2". We can get
 this info directly by adding these to the end of our `doc.css` call:
 
 ```ruby
-p doc.css(".tout__label.heading.heading--level-4")[0].name
-# => "h2"
+p doc.css("#2a778efd-1685-5ec6-9e5a-0843d6a88b7b .inlineMobileLeft-2Yo002.imageTextBlockGrid3-2XAK6G")[0].name
+# => "div"
 ```
 
 This is the name of the XML element, not to be confused with the HTML attribute
@@ -463,14 +449,14 @@ classes, but will also return other useful content like `alt` and `src` for
 images.
 
 ```ruby
-p doc.css(".tout__label.heading.heading--level-4")[0].attributes
+p doc.css("#2a778efd-1685-5ec6-9e5a-0843d6a88b7b .inlineMobileLeft-2Yo002.imageTextBlockGrid3-2XAK6G")[0].attributes
 ```
 
 Since this example doesn't have any attributes besides the CSS classes, we just
 get back the classes we already know:
 
 ```text
-{"class"=>#<Nokogiri::XML::Attr:0x3ff04f8b3754 name="class" value="tout__label heading heading--level-4">}
+{"class"=>#<Nokogiri::XML::Attr:0x3fd0e50e1b04 name="class" value="inlineMobileLeft-2Yo002 imageTextBlockGrid3-2XAK6G">}
 ```
 
 One last but important method to note is `children`. Adding `children` will
